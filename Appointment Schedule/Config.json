@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "ServerConnection": "Server=DESKTOP-0L79SC3\\SQLEXPRESS;DataBase=AppointmentScheduler;Trusted_Connection=True;TrustServerCertificate=True;"
+
+  }
+}
